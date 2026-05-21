@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Hi,_I'm_Srinath_A-0A192F?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/Hi,_I'm_Srinath_A-020617?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0A192F"/>
   <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208b2a-893f-4b7b-9aa7-6a6112d10703.gif" width="90">
 </h1>
 
@@ -30,14 +30,12 @@
     <th>Academic Performance</th>
     <th>Focus Areas</th>
   </tr>
-
   <tr>
     <td align="center">
       <b>B.Tech CSE - AI & ML</b><br>
       <i>SRIHER, Chennai</i><br><br>
       <img src="https://img.shields.io/badge/Status-Student-0A192F?style=for-the-badge&logo=academia&logoColor=00D9FF"/>
     </td>
-
     <td align="center">
       <b>Latest GPA</b><br>
       <code>8.6 / 10</code><br><br>
@@ -45,7 +43,6 @@
       <code>7.5 / 10</code><br><br>
       <img src="https://img.shields.io/badge/Performance-Growing-005B96?style=for-the-badge"/>
     </td>
-
     <td align="center">
       UAV Software Development<br>
       AI / Machine Learning<br>
